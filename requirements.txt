@@ -1,0 +1,11 @@
+---
+
+### **File 2: `requirements.txt`**
+
+Click "Add file" → "Create new file" → Name: `requirements.txt`
+```txt
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.5.0
+pandas>=2.1.0
+python-dateutil>=2.8.2
