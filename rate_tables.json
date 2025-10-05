@@ -1,0 +1,67 @@
+{
+  "carriers": {
+    "carrier_001": {
+      "name": "Premium Carrier A",
+      "local": 0.01,
+      "national": 0.02,
+      "international": {
+        "US": 0.03,
+        "GB": 0.04,
+        "DE": 0.04,
+        "FR": 0.04,
+        "CA": 0.03,
+        "AU": 0.05,
+        "JP": 0.06,
+        "CN": 0.07,
+        "IN": 0.05,
+        "default": 0.08
+      }
+    },
+    "carrier_002": {
+      "name": "Budget Carrier B",
+      "local": 0.008,
+      "national": 0.015,
+      "international": {
+        "US": 0.025,
+        "GB": 0.035,
+        "DE": 0.035,
+        "FR": 0.035,
+        "CA": 0.025,
+        "AU": 0.045,
+        "JP": 0.055,
+        "CN": 0.065,
+        "IN": 0.045,
+        "default": 0.07
+      }
+    },
+    "carrier_003": {
+      "name": "Standard Carrier C",
+      "local": 0.009,
+      "national": 0.018,
+      "international": {
+        "US": 0.028,
+        "GB": 0.038,
+        "DE": 0.038,
+        "FR": 0.038,
+        "CA": 0.028,
+        "AU": 0.048,
+        "JP": 0.058,
+        "CN": 0.068,
+        "IN": 0.048,
+        "default": 0.075
+      }
+    }
+  },
+  "markup": 1.5,
+  "country_names": {
+    "US": "United States",
+    "GB": "United Kingdom",
+    "DE": "Germany",
+    "FR": "France",
+    "CA": "Canada",
+    "AU": "Australia",
+    "JP": "Japan",
+    "CN": "China",
+    "IN": "India"
+  }
+}
