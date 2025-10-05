@@ -315,23 +315,23 @@ cdr-processing-pipeline/
 ```
 
 ## 🎓 Skills Demonstrated
-Data Engineering
+### Data Engineering
 - ✅ Data Pipeline Design: End-to-end data flow
 - ✅ Stream Processing: Real-time CDR ingestion
 - ✅ Data Validation: Schema validation and quality checks
 - ✅ ETL Operations: Extract, Transform, Load
 - ✅ Time-Series Data: Efficient temporal data handling
-Backend Development
+### Backend Development
 - ✅ RESTful API: Production-grade endpoints
 - ✅ Async Programming: High-throughput processing
 - ✅ Database Design: Optimized schema with indexes
 - ✅ Error Handling: Robust exception management
-Telecom Domain
+### Telecom Domain
 - ✅ CDR Processing: Industry-standard call records
 - ✅ Billing Logic: Cost calculation and revenue tracking
 - ✅ Carrier Management: Multi-carrier operations
 - ✅ Geographic Routing: International call handling
-Analytics
+### Analytics
 - ✅ Aggregations: Statistical calculations
 - ✅ Time-Series Analysis: Trend detection
 - ✅ Business Metrics: KPI tracking
